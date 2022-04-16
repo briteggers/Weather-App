@@ -4,7 +4,7 @@ input {
   box-shadow: 2px 2px 2px rgba(168, 163, 163, 0.568);
   font-family: "Quicksand", sans-serif;
   font-size: 18px;
-  margin-left: 130px;
+  margin-left: 120px;
   margin-top: 10px;
   text-align: center;
 }
@@ -23,27 +23,19 @@ h2 {
   color: rgb(53, 59, 66, 0.75);
   font-size: 60px;
   font-family: "Quicksand", sans-serif;
-  margin-left: 500px;
+  margin-left: 545px;
   margin-top: 48px;
   position: relative;
   text-shadow: 3px 3px 3px rgb(206, 198, 192);
 }
 
-.highlow {
-  color: rgb(53, 59, 66, 0.75);
-  font-size: 18px;
-  font-family: "Quicksand", sans-serif;
-  margin-left: 550px;
-  margin-top: -8px;
-  opacity: 85%;
-  position: absolute;
-}
 .date {
   color: rgb(126, 129, 133);
   font-size: 20px;
   font-family: "Quicksand", sans-serif;
   margin-bottom: 0px;
-  margin-left: 70px;
+  margin-top: 25px;
+  margin-left: 10px;
   opacity: 75%;
 }
 
@@ -52,9 +44,20 @@ h2 {
   font-size: 20px;
   font-family: "Quicksand", sans-serif;
   margin-bottom: 50px;
-  margin-left: 70px;
+  margin-left: 10px;
   opacity: 75%;
 }
+
+.highlow {
+  color: rgb(53, 59, 66, 0.75);
+  font-size: 20px;
+  font-family: "Quicksand", sans-serif;
+  margin-left: 550px;
+  margin-top: 10px;
+  opacity: 85%;
+  position: absolute;
+}
+
 .container {
   border: solid 4px;
   border-color: rgba(218, 134, 113, 0.479);
@@ -79,6 +82,6 @@ h2 {
 .card {
   border: solid 2px;
   background-color: rgba(255, 213, 210, 0.185);
-  border-radius: 10px;
+  border-radius: 25px;
   color: rgba(218, 134, 113, 0.479);
 }
