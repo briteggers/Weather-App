@@ -1,0 +1,84 @@
+input {
+  background-color: rgba(255, 213, 210, 0.185);
+  border-color: rgb(241, 190, 175);
+  box-shadow: 2px 2px 2px rgba(168, 163, 163, 0.568);
+  font-family: "Quicksand", sans-serif;
+  font-size: 18px;
+  margin-left: 130px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(241, 190, 175);
+  font-size: 85px;
+  font-family: "Quicksand", sans-serif;
+  margin-left: 5px;
+  margin-top: 30px;
+  position: absolute;
+  text-shadow: 3px 3px 3px rgb(82, 77, 75, 0.8);
+}
+
+h2 {
+  color: rgb(53, 59, 66, 0.75);
+  font-size: 60px;
+  font-family: "Quicksand", sans-serif;
+  margin-left: 500px;
+  margin-top: 48px;
+  position: relative;
+  text-shadow: 3px 3px 3px rgb(206, 198, 192);
+}
+
+.highlow {
+  color: rgb(53, 59, 66, 0.75);
+  font-size: 18px;
+  font-family: "Quicksand", sans-serif;
+  margin-left: 550px;
+  margin-top: -8px;
+  opacity: 85%;
+  position: absolute;
+}
+.date {
+  color: rgb(126, 129, 133);
+  font-size: 20px;
+  font-family: "Quicksand", sans-serif;
+  margin-bottom: 0px;
+  margin-left: 70px;
+  opacity: 75%;
+}
+
+.condition {
+  color: rgb(126, 129, 133);
+  font-size: 20px;
+  font-family: "Quicksand", sans-serif;
+  margin-bottom: 50px;
+  margin-left: 70px;
+  opacity: 75%;
+}
+.container {
+  border: solid 4px;
+  border-color: rgba(218, 134, 113, 0.479);
+  background-color: rgba(255, 213, 210, 0.158);
+  border-radius: 25px;
+  margin: 50px;
+  max-width: fit-content;
+  padding: 25px 25px 25px 25px;
+}
+.day {
+  color: rgb(53, 59, 66);
+  font-family: "Quicksand", sans-serif;
+  text-align: center;
+}
+.card-text {
+  font-family: "Quicksand", sans-serif;
+  text-align: center;
+}
+.card-body {
+  color: rgb(53, 59, 66);
+}
+.card {
+  border: solid 2px;
+  background-color: rgba(255, 213, 210, 0.185);
+  border-radius: 10px;
+  color: rgba(218, 134, 113, 0.479);
+}
